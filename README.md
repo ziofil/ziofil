@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there I'm Filippo (he/him)! 👋
+I'm a Quantum Machine Learning researcher at Xanadu and visiting associate professor at Telecom Paris.
+I'm the main developer of [Mr Mustard](https://github.com/XanaduAI/MrMustard).
 
 <!--
 **ziofil/ziofil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
