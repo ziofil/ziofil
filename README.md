@@ -1,6 +1,6 @@
-### Hi there I'm Filippo (he/him)! 👋
-I work at the interface of quantum physics and Machine Learning.
-I'm the main developer of [Mr Mustard](https://github.com/XanaduAI/MrMustard), a differentiable simulator for photonic quantum circuits.
+### Hi there! I'm Filippo (he/him) 👋
+I've been in academia for many years until I reached tenure. Then I gave it all away to join [Xanadu](https://xanadu.ai) and I'm happier than ever :)
+Now I'm a senior quantum architecture scientist and the main developer of [Mr Mustard](https://github.com/XanaduAI/MrMustard), our photonic circuit optimizer.
 
 <!--
 **ziofil/ziofil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
