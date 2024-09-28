@@ -1,6 +1,7 @@
 ### Hi there! I'm Filippo (he/him) 👋
-I've been in academia for many years until I reached tenure. Then I gave it all away to join [Xanadu](https://xanadu.ai) and I'm happier than ever :)
-Now I'm a senior quantum architecture scientist and the main developer of [Mr Mustard](https://github.com/XanaduAI/MrMustard), our photonic circuit optimizer.
+Former Assoc. Prof. (Institut polytechnique de Paris) converted to industry.
+Now Principal Quantum Architecture Scientist at [Xanadu](https://xanadu.ai).
+Main developer of [Mr Mustard](https://github.com/XanaduAI/MrMustard), our photonic circuit optimizer.
 
 <!--
 **ziofil/ziofil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
